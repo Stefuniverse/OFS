@@ -1,0 +1,11 @@
+Rohstoffe auf Heimatplanet [1:483:10] (Spieler: Kuma) am 05-15 15:50:08
+Metall:	1.460 	Kristall: 	1.180
+Deuterium:	2.409 	Energie: 	753
+Flotten
+Kleiner Transporter	1	 	 
+Verteidigung
+Gebäude
+Metallmine	11	Kristallmine	10
+Deuterium-Synthetisierer	6	Solarkraftwerk	12
+Roboterfabrik	2	Raumschiffswerft	4
+Metallspeicher	1	Forschungslabor	2
